@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <!-- site metas -->
-    <title>Mkonekt</title>
+    <title>Mkonekt | home</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -138,7 +138,7 @@ background-color: #0652dd;
                                             <li class="nav-item active">
                                                 <a class="nav-link" href="#">Home</a></li>
                                                 <li > <a href="#about Us">About</a> </li>
-                                                <li ><a href="#product">Projects</a></li>
+                                               
                                                 <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Our Partners</a>
               <ul class="dropdown-menu mega-menu" aria-labelledby="navbarDropdown">
@@ -156,6 +156,8 @@ background-color: #0652dd;
                                                 <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">News and Events</a>
               <ul class="dropdown-menu mega-menu" aria-labelledby="navbarDropdown">
+             
+              <a class="dropdown-item" href="#">Projects</a>
                 <a class="dropdown-item" href="#">Live Auction</a>
                 <a class="dropdown-item" href="#">Mkonekt &nbsp Launching</a>
                 <a class="dropdown-item" href="#">Mkonekt &nbsp Training</a>
@@ -167,6 +169,18 @@ background-color: #0652dd;
               </ul>
             </li>
             <li ><a href="#contact">Login</a></li>
+
+            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="flag-icon flag-icon-us"> </span>Language</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown09">
+                                <a class="dropdown-item" href="#fr"><span class="flag-icon flag-icon-fr"> </span>Kiswahili</a>
+                                <a class="dropdown-item" href="#it"><span class="flag-icon flag-icon-it"> </span>English</a>
+                              
+                            </div>
+                        </li>
+
+
+            
 
 
 
@@ -243,7 +257,7 @@ background-color: #0652dd;
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="second-slide" src="images/banner.jpg" alt="Second slide">
+                    <img class="second-slide" src="images/banner1.jpg" alt="Second slide">
                     <div class="container">
                         <div class="carousel-caption relative">
                             <h1>Mkonekt</h1>
@@ -256,7 +270,7 @@ background-color: #0652dd;
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="third-slide" src="images/banner.jpg" alt="Third slide">
+                    <img class="third-slide" src="images/banner0.jpg" alt="Third slide">
                     <div class="container">
                         <div class="carousel-caption relative">
                             <h1>Mkonekt</h1>
@@ -286,7 +300,10 @@ background-color: #0652dd;
                 <div class="col-xl-5 col-lg-5 col-md-5 co-sm-l2">
                     <div class="about_box">
                         <h2>About Mkonekt<br><strong class="black"> Farm and company</strong></h2>
-                        <p>dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                        <p> “Mkulima Connect” ni mfumo wa kuuza/kununua Mazao na bidhaa za mazao ya kilimo kimtandao (Soko la Mazao Kimtandao) kwa kutumia mifumo ya Tovuti na Programu Tumishi.
+                             Kama ilivyo mifumo mingine kwa lugha ya kigeni (Ecommerce,Online Trading,Digital Market).
+                             fumo huu utawakutanisha pamoja wauzaji, wanunuzi, watoa huduma na wadau mbalimbali wa Kilimo na Uzalishaji,lengo ...
+</p>
                         <a href="#">Read More</a>
                     </div>
                 </div>
@@ -299,93 +316,28 @@ background-color: #0652dd;
         </div>
     </div>
     <!-- end about -->
-    <!-- for_box -->
-    <div class="for_box_bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-3 co-sm-l2">
-                    <div class="for_box">
-                        <i><img src="images/1.png" alt="#"/></i>
-                        <span>1996923</span>
-                        <h3>Harvesta</h3>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 co-sm-l2">
-                    <div class="for_box">
-                        <i><img src="images/2.png" alt="#"/></i>
-                        <span>8000</span>
-                        <h3>Units of Cattle</h3>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 co-sm-l2">
-                    <div class="for_box">
-                        <i><img src="images/3.png" alt="#"/></i>
-                        <span>60002</span>
-                        <h3>Farm</h3>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 co-sm-l2">
-                    <div class="for_box">
-                        <i><img src="images/4.png" alt="#"/></i>
-                        <span>1623</span>
-                        <h3>Units of Technic</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- end for_box -->
-    <!-- offer -->
-    <div class="offer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="title">
-                        <h2>Special <strong class="black"> Offers</strong></h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="offer-bg">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 ">
-                        <div class="offer_box">
-                            <h3>Agriculture Products</h3>
-                            <figure><img src="images/offer1.png" alt="img" /></figure>
-                            <p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
 
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 margin_ttt">
-                        <div class="offer_box">
-                            <h3>Fresh Vegatables</h3>
-                            <figure><img src="images/offer2.png" alt="img" /></figure>
-                            <p>consectetur adipiscing elit, sed do eiusmodmpor incididunt ut labore et dolore magna aliqua. Ut enim ad</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 margin-lkk">
-                        <div class="offer_box">
-                            <h3>Farm Factory</h3>
-                            <figure><img src="images/offer3.png" alt="img" /></figure>
-                            <p>consectetur adipiscing elit, sed do eiusmodmpor incididunt ut labore et dolore magna</p>
-                        </div>
-                    </div>
 
-                    <div class="col-md-12">
-                        <a class="read-more">See More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <!-- end offer -->
 
-    <!-- product -->
-    <div id="product" class="product">
-        <div class="container">
-            <div class="container">
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="title">
@@ -394,162 +346,173 @@ background-color: #0652dd;
                     </div>
                 </div>
             </div>
+
+
+
+    <!-- for_box -->
+    <div class="for_box_bg">
+
+ 
+        <div class="container">
+           
+       
+
+
+        <!-- Blog Section Begin -->
+        <section class="from-blog spad">
+
+       
+
+        <div class="container">
+           
+      
+           
         </div>
 
-        <div class="container-fluid">
+
+
             <div class="row">
-                <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                            <div class="product_box">
-                                <figure><img src="images/product_img1.jpg" alt="#" />
-                                    <h3>Fresh Apple </h3></figure>
-                            </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                        <figure><img src="images/offer3.png" alt="img" /></figure>
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                            <div class="product_box">
-                                <figure><img src="images/product_img2.jpg" alt="#" />
-                                    <h3>Fresh Aalu  </h3>
-                                </figure>
-                            </div>
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                            <div class="product_box">
-                                <figure><img src="images/product_img4.jpg" alt="#" />
-                                    <h3>Rice Field </h3></figure>
-                            </div>
+                        <div class="blog__item__text" align="center">
+                            <p style="color:#FFFFFF"> Ngano</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                    <div class="row">
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                            <div class="product_box">
-                                <figure><img src="images/product_img3.jpg" alt="#" />
-                                    <h3>Vegetables</h3></figure>
-                            </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                        <figure><img src="images/offer1.png" alt="img" /></figure>
                         </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                            <div class="product_box">
-                                <figure><img src="images/product_img5.jpg" alt="#" />
-                                    <h3>Field Wheat </h3></figure>
-                            </div>
+                        <div class="blog__item__text" align="center">
+                            <p style="color:#FFFFFF"> Ngano</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                        <figure><img src="images/offer2.png" alt="img" /></figure>
+                        </div>
+                        <div class="blog__item__text" align="center">
+                            <p style="color:#FFFFFF"> Mahindi</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+      
+    </section>
+    <!-- Blog Section End -->
+    <p><br>
+
+            <!-- Blog Section Begin -->
+            <section class="from-blog spad">
+        <div class="container">
+            <div class="row">
+                
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                        <figure><img src="images/offer2.png" alt="img" /></figure>
+                        </div>
+                        <div class="blog__item__text" align="center">
+                            <p style="color:#FFFFFF"> Ngano</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                           
+
+                            <figure><img src="images/offer1.png" alt="img" /></figure>
+                        </div>
+                        <div class="blog__item__text" align="center">
+                            <p style="color:#FFFFFF"> Ngano</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                        <figure><img src="images/offer3.png" alt="img" /></figure>
+                        </div>
+                        <div class="blog__item__text" align="center">
+                            <p style="color:#FFFFFF"> Ngano</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </section>
+    <!-- Blog Section End -->
+
+
     </div>
+    </div>
+    <!-- end for_box -->
    
 
-    <!-- end product -->
-    <!-- clients -->
-    <div id="testimonial" class="clients">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="title">
-                        <h2>testimonial</h2>
-                    </div>
-                </div>
+    <p><br>
+
+<section class="ftco-section ftco-partner">
+<div class="container">
+<div class="row">
+        <div class="col-md-12">
+            <div class="title">
+            <h2>Our Partners</h2>
             </div>
         </div>
     </div>
-    <div class="clients_red">
-        <div class="container">
-            <div id="testimonial_slider" class="carousel slide" data-ride="carousel">
-                <!-- Indicators -->
-                <ul class="carousel-indicators">
-                    <li data-target="#testimonial_slider" data-slide-to="0" class=""></li>
-                    <li data-target="#testimonial_slider" data-slide-to="1" class="active"></li>
-                    <li data-target="#testimonial_slider" data-slide-to="2" class=""></li>
-                </ul>
-                <!-- The slideshow -->
-                <div class="carousel-inner">
-                    <div class="carousel-item">
-                        <div class="testomonial_section">
 
-                            <div class="full testimonial_cont text_align_center cross_layout">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 pa_right">
-                                        <div class="testomonial_img">
-                                            <i><img src="images/tes.jpg" alt="#"/></i>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9 pa_left">
-                                        <div class="cross_inner">
-                                            <h3>Johndue<br><strong class="ornage_color">Farm & CO</strong></h3>
-                                            <p><img src="icon/1.png" alt="#" />ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                                                <img src="icon/2.png" alt="#" />
-                                            </p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="carousel-item active">
-
-                        <div class="testomonial_section">
-                            <div class="full center">
-                            </div>
-                            <div class="full testimonial_cont text_align_center cross_layout">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 pa_right">
-                                        <div class="testomonial_img">
-                                            <i><img src="images/tes.jpg" alt="#"/></i>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9 pa_left">
-                                        <div class="cross_inner">
-                                            <h3>Johndue<br><strong class="ornage_color">Farm & CO</strong></h3>
-                                            <p><img src="icon/1.png" alt="#" />ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                                                <img src="icon/2.png" alt="#" />
-                                            </p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="carousel-item">
-
-                        <div class="testomonial_section">
-                            <div class="full center">
-                            </div>
-                            <div class="full testimonial_cont text_align_center cross_layout">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 pa_right">
-                                        <div class="testomonial_img">
-                                            <i><img src="images/tes.jpg" alt="#"/></i>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9 pa_left">
-                                        <div class="cross_inner">
-                                            <h3>Johndue<br><strong class="ornage_color">Farm & CO</strong></h3>
-                                            <p><img src="icon/1.png" alt="#" />ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                                                <img src="icon/2.png" alt="#" />
-                                            </p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
+    <div class="row">
+        <div class="col-sm ftco-animate">
+            <a href="#" class="partner"><img src="images/partner-1.png" class="img-fluid" alt="" width="100" height="100"></a>
+        </div>
+        <div class="col-sm ftco-animate">
+            <a href="#" class="partner"><img src="images/partner-2.png" class="img-fluid" alt="" width="100" height="100"></a>
+        </div>
+        <div class="col-sm ftco-animate">
+            <a href="#" class="partner"><img src="images/partner-3.png" class="img-fluid" alt="" width="100" height="100"></a>
+        </div>
+        <div class="col-sm ftco-animate">
+            <a href="#" class="partner"><img src="images/partner-4.png" class="img-fluid" alt="" width="100" height="100"></a>
+        </div>
+        <div class="col-sm ftco-animate">
+            <a href="#" class="partner"><img src="images/partner-5.jpg" class="img-fluid" alt="" width="100" height="100"></a>
         </div>
     </div>
-  
-    <!-- end clients -->
+
+    <p><br>
+
+    
+    <div class="row">
+ 
+        <div class="col-sm ftco-animate">
+            <a href="#" class="partner"><img src="images/partner-5.png" class="img-fluid" alt="" width="100" height="100"></a>
+        </div>
+    </div>
+ 
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- contact -->
 
     <div id="contact" class="contact">
@@ -567,27 +530,17 @@ background-color: #0652dd;
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 padddd">
             <div class="map_section">
                 <div class="container">
+              
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 
-                            <form class="main_form">
+                            <form class="main_form" style="border-radius:200px">
                                 <div class="row">
 
-                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                        <input class="form-control" placeholder="Name" type="text" name="Name">
+                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12" style="border-radius:200px">   
+                                    <input class="form-control" placeholder="Todays Visitors" type="text" name="Name" readonly>
                                     </div>
-                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                        <input class="form-control" placeholder="Email" type="text" name="Email">
-                                    </div>
-                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                        <input class="form-control" placeholder="Phone" type="text" name="Phone">
-                                    </div>
-                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                        <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
-                                    </div>
-                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                        <button class="send">Send</button>
-                                    </div>
+                                  
                                 </div>
                             </form>
                         </div>
@@ -615,17 +568,19 @@ background-color: #0652dd;
                             <a href="index.php
 "> <img src="images/logo.png" alt="logo" /></a>
                             <p>dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et sdolor sit amet, consectetur adipiscing elit, </p>
+                        
+                        
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="address">
                             <h3>Quick links</h3>
                             <ul class="Links_footer">
-                                <li><img src="icon/3.png" alt="#" /> <a href="#"> Join Us</a> </li>
-                                <li><img src="icon/3.png" alt="#" /> <a href="#">Maintenance</a> </li>
-                                <li><img src="icon/3.png" alt="#" /> <a href="#">Language Packs</a> </li>
-                                <li><img src="icon/3.png" alt="#" /> <a href="#">LearnPress</a> </li>
-                                <li><img src="icon/3.png" alt="#" /> <a href="#">Release Status</a> </li>
+                                <li><img src="icon/3.png" alt="#" /> <a href="https://www.airtanzania.co.tz/" target="_blank">Air Tanzania</a> </li>
+                                <li><img src="icon/3.png" alt="#" /> <a href="https://www.tcra.go.tz/" target="_blank">TCRA</a> </li>
+                                <li><img src="icon/3.png" alt="#" /> <a href="https://www.sido.go.tz/" target="_blank">Sido.go.tz</a> </li>
+                                <li><img src="icon/3.png" alt="#" /> <a href="https://www.tari.go.tz/" target="_blank">Tari.go.tz</a> </li>
+                                <li><img src="icon/3.png" alt="#" /> <a href="https://www.tbs.go.tz/" target="_blank">Tbs.go.tz</a> </li>
                             </ul>
                         </div>
                     </div>
@@ -633,7 +588,7 @@ background-color: #0652dd;
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="address">
                             <h3>Subcribe email</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </p>
+                            <p>Get E-mail updates about our latest shop and special offers.</p>
                             <input class="form-control" placeholder="Your Email" type="type" name="Your Email">
                             <button class="submit-btn">Submit</button>
                         </div>
@@ -645,12 +600,12 @@ background-color: #0652dd;
 
                             <ul class="loca">
                                 <li>
-                                    <a href="#"><img src="icon/loc.png" alt="#" /></a>London 145
-                                    <br>United Kingdom </li>
+                                    <a href="#"><img src="icon/loc.png" alt="#" /></a>Uhindini Street
+                                    <br>Dodoma Tanzania </li>
                                 <li>
-                                    <a href="#"><img src="icon/email.png" alt="#" /></a>demo@gmail.com </li>
+                                    <a href="#"><img src="icon/email.png" alt="#" /></a>boniphace10@gmail.com </li>
                                 <li>
-                                    <a href="#"><img src="icon/call.png" alt="#" /></a>+12586954775 </li>
+                                    <a href="#"><img src="icon/call.png" alt="#" /></a>+25586954775 </li>
                             </ul>
                         </div>
                     </div>
@@ -660,7 +615,7 @@ background-color: #0652dd;
      
         <div class="copyright">
             <div class="container">
-                <p>© 2019 All Rights Reserved. Design By<a href="https://html.design/"> Free Html Templates</a></p>
+                <p>© 2023 All Rights Reserved. Design By<a href="#">MhawaNet ICT Solutions</a></p>
            
         </div>
         </div>
